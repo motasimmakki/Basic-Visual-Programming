@@ -1,0 +1,11 @@
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\bin\Debug\Addition.exe.config
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\bin\Debug\Addition.exe
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\bin\Debug\Addition.pdb
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\bin\Debug\Addition.xml
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\obj\Debug\Addition.Form1.resources
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\obj\Debug\Addition.Resources.resources
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\obj\Debug\Addition.vbproj.GenerateResource.cache
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\obj\Debug\Addition.exe
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\obj\Debug\Addition.xml
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\obj\Debug\Addition.pdb
+E:\VISUAL STUDIO PROJECTS\Addition\Addition\obj\Debug\Addition.vbprojAssemblyReference.cache
