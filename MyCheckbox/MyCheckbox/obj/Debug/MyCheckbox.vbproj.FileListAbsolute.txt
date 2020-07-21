@@ -1,0 +1,11 @@
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\bin\Debug\MyCheckbox.exe.config
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\bin\Debug\MyCheckbox.exe
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\bin\Debug\MyCheckbox.pdb
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\bin\Debug\MyCheckbox.xml
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\obj\Debug\MyCheckbox.vbprojAssemblyReference.cache
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\obj\Debug\MyCheckbox.Form1.resources
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\obj\Debug\MyCheckbox.Resources.resources
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\obj\Debug\MyCheckbox.vbproj.GenerateResource.cache
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\obj\Debug\MyCheckbox.exe
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\obj\Debug\MyCheckbox.xml
+E:\VISUAL STUDIO PROJECTS\MyCheckbox\MyCheckbox\obj\Debug\MyCheckbox.pdb
