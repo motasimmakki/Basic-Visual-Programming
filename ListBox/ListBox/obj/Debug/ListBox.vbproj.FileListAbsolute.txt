@@ -1,0 +1,11 @@
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\bin\Debug\ListBox.exe.config
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\bin\Debug\ListBox.exe
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\bin\Debug\ListBox.pdb
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\bin\Debug\ListBox.xml
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\obj\Debug\ListBox.vbprojAssemblyReference.cache
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\obj\Debug\ListBox.Resources.resources
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\obj\Debug\ListBox.vbproj.GenerateResource.cache
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\obj\Debug\ListBox.exe
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\obj\Debug\ListBox.xml
+E:\VISUAL STUDIO PROJECTS\ListBox\ListBox\obj\Debug\ListBox.pdb
